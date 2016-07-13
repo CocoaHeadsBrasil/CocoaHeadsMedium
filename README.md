@@ -48,7 +48,7 @@ Lembrando: Esse formato não é definitivo e pode ser ajustado durante o ano. Ca
 
 Mês | Data | Título do artigo | Autor | Status
 --- | ---- | ------ | ----- | ---- 
-Agosto | 02/08/16 |   --  | --
+Agosto | 02/08/16 |  3D Touch: Implementando uma ótima experiência para os usuários  | Rodrigo Borges | Submetido
 Agosto | 09/08/16 | -- | --
 Agosto | 16/08/16 | -- | --
 Agosto | 23/08/16 | -- | --
