@@ -38,7 +38,16 @@ Ao finalizar o artigo, o autor deve:
 * Solicitar no canal #medium do [Slack do iOS Dev BR](https://iosdevbr.slack.com/) a autorização de editor na nossa publicação no [Medium](http://medium.com/cocoaheads-br). 
 * Após se tornar editor, submeter o artigo para o nossa publicação no [Medium](http://medium.com/cocoaheads-br).
 
-Os artigos devem ser submetidos com pelo menos **3 dias de antecedência** a data escolhida para publicação. Isso garante que ele seja revisado com calma pelo autor e admins, resultando em um artigo de maior qualidade.
+Os artigos devem ser submetidos com no mínimo **15 dias de antecedência** a data escolhida para publicação. Isso garante que ele seja revisado com calma pelo autor e admins, resultando em um artigo de maior qualidade.
+
+A ideia é termos um ciclo em que a cada 15 dias 1 artigo é publicado e outro é enviado para revisão, fazendo com que tenhamos sempre artigos bem revisados e não haja faltas na periodicidade.
+
+Sendo assim, teremos os seguintes status para os artigos:
+
+- Em Desenvolvimento
+- Revisão
+- Aprovado
+- Publicado
 
 Lembrando: Esse formato não é definitivo e pode ser ajustado durante o ano. Caso você tenha alguma dúvida ou sugestão, por favor, entre em contato com a gente, queremos o seu artigo! :)
 
@@ -48,27 +57,15 @@ Lembrando: Esse formato não é definitivo e pode ser ajustado durante o ano. Ca
 
 Mês | Data | Título do artigo | Autor | Status
 --- | ---- | ------ | ----- | ---- 
-Agosto | 02/08/16 |   --  | --
-Agosto | 09/08/16 | -- | --
-Agosto | 16/08/16 | -- | --
-Agosto | 23/08/16 | -- | --
-Agosto | 30/08/16 | -- | --
-Setembro | 06/09/16 | -- | --
-Setembro | 13/09/16 | -- | --
-Setembro | 20/09/16 | -- | --
-Setembro | 27/09/16 | -- | --
-Outubro | 04/10/16 | -- | --
-Outubro | 11/10/16 | -- | --
-Outubro | 18/10/16 | -- | --
-Outubro | 25/10/16 | -- | --
+Agosto | 15/08/16 |   --  | --
+Setembro | 01/09/16 | -- | --
+Setembro | 15/09/16 | -- | --
+Outubro | 01/10/16 | -- | --
+Outubro | 15/10/16 | -- | --
 Novembro | 01/10/16 | -- | --
-Novembro | 08/11/16 | -- | --
 Novembro | 15/11/16 | -- | --
-Novembro | 22/11/16 | -- | --
-Novembro | 29/11/16 | -- | --
-Dezembro | 06/12/16 | -- | --
-Dezembro | 13/12/16 | -- | --
-Dezembro | 20/12/16 | -- | --
+Dezembro | 01/12/16 | -- | --
+Dezembro | 15/12/16 | -- | --
 
 Caso alguém submeta algum post que seja muito relevante pela data em que foi escrito e essa data tenha sido preenchida, faremos um calendário extra com esses posts sobressalentes. 
 
